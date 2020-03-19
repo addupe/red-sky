@@ -1,0 +1,15 @@
+{
+  "name": "nasa_weather",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@vue/cli-init": "^4.2.3",
+    "vue": "^2.6.11"
+  }
+}
